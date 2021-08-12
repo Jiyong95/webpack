@@ -1,0 +1,13 @@
+$color--blue: blue;
+
+body{
+	background-color: $color--blue;
+	h1 {
+		display: flex;
+	}
+}
+
+img{
+	width: 300px;
+	height: 300px;
+}
